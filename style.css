@@ -1,0 +1,33 @@
+html{
+    color-scheme: dark;
+}
+h1 {
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+  }
+.pertama {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+.motivation-img {
+    border: 5px solid white;
+    height: 500px;
+  }
+#credit{
+    text-align: right;
+}
+footer {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border: 10px;
+}
